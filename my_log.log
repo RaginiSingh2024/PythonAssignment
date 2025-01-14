@@ -1,0 +1,2 @@
+INFO:root:This is an info message.
+ERROR:root:Error: Division by zero occurred.
